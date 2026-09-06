@@ -1,0 +1,19 @@
+Please turn each photograph I upload into a separate sophisticated design poster. Do not combine multiple photographs; output each photograph separately. Use an overall 3:4 portrait composition with two vertically stacked regions of strictly equal 1:1 height, each occupying 50% of the canvas.
+
+Keep the original photograph in the upper half, preserving the subject's identity, structure, pose, realistic texture, natural lighting and shadows, and original colour atmosphere. Apply only subtle refined colour grading for the quality of an art magazine or exhibition image. Naturally extend the surrounding background if needed to fit the format, but do not stretch, distort, or change the subject.
+
+In the lower half, extract only the photograph's most recognisable subject, contours, structure, pose, and narrative relationships, and reconstruct them as an architectural concept perspective sketch / hand-drawn architectural proposal illustration. Do not preserve the entire scene or copy the photograph object by object. Actively remove most background, supporting scenery, and irrelevant details, retaining only the core forms, spatial relationships, and visual memory points that best represent the original theme.
+
+Make new artistic decisions for the lower half. Even if the original composition is weak, the background cluttered, or the subject small, rescue it into a successful artwork through subtraction, rearrangement, cropping, changes of scale, and whitespace, genuinely giving the model the power to redirect the composition.
+
+Use freehand perspective linework with a few selective colour blocks. Lines should be relaxed, restrained, and slightly repetitive or hesitant. Retain a few auxiliary, extended, construction, and architectural geometric reference lines to convey clear design exploration. Apply colour lightly to only a few key areas to emphasise the subject, structural layers, local shadows, or spatial focal points; leave the other areas as undrawn as possible.
+
+Extensive intentional whitespace must be central. The subject should be smaller and more distilled, leaving large stretches of the remaining space empty. Whitespace is not merely an empty background but part of the composition: together with the subject, lines, reference lines, shadows, and sparse colour blocks, it creates breathing room, spatial depth, and rhythm. The subject may be off-centre, near an edge, partially cropped, or reduced in scale. Prefer drawing less to filling the canvas.
+
+A few geometric shadow blocks may strengthen volume, depth, and spatial layers, but avoid heavy rendering, complex environments, and the feel of photorealistic architectural visualisation. Keep the background minimal, retaining only a very few necessary hints of the site.
+
+Extract 2–4 of the most recognisable and lively colours from the photograph above and reorganise them into a cleaner, restrained, enduring sketch palette. Moderately brighten, purify, and remove greyness as appropriate, using mainly off-white, light grey, warm grey, soft green, pale wood tones, and light blue-grey, with a few brighter but non-glaring accents. Avoid muddy grey, dullness, excessive nostalgia, and cheap high saturation.
+
+Use text only as a very small editorial intervention, without restricting its language. Generate a few words, short phrases, or annotations based on the subject, place, action, or emotion. Place them quietly within the whitespace to create a restrained relationship between text and image.
+
+The overall result should combine architectural concept drawing, freehand linework, geometric reference lines, sparse colour blocks, geometric shadows, extremely abundant whitespace, and editorial typography into a sophisticated visual composition. Avoid preserving the full scene, copying objects individually, complex backgrounds, all-over colouring, photorealistic renderings, heavy outlines, cartoon styling, a 3D feel, and templated treatment.

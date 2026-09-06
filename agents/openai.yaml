@@ -1,0 +1,7 @@
+interface:
+  display_name: "/xxd-panel-120"
+  short_description: "Architectural concept sketches with freehand lines and whitespace."
+  default_prompt: "Use $xxd-panel-120 on an image or directory. Read its full Chinese source brief, preserve architectural concept-sketch aesthetics, isolate sources, and deliver the selected layout as fresh PNG artwork."
+
+policy:
+  allow_implicit_invocation: true
