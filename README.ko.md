@@ -6,20 +6,16 @@
 
 ## 샘플 작품
 
-8 장의 샘플은 서로 다른 폴더의 원본을 사용해 Panel 120 에서 각기 독립적으로 한 번에 생성합니다. 원본에 기반한 영어 문구를 사용하고 공개 전에 AI 메타데이터를 제거합니다. 가로는 왼쪽 사진·오른쪽 디자인, 세로는 위 사진·아래 디자인이며 각 50%입니다.
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-**16:9 · left-right · 50:50**
-
-| sample-05 | sample-06 |
-|---|---|
+| sample-05 | sample-07 | sample-09 | sample-11 |
+| --- | --- | --- | --- |
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07 | sample-08 |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
-
-**3:4 · top-bottom · 50:50**
-
 | sample-09 | sample-10 |
-|---|---|
 | ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| sample-11 | sample-12 |
 | ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
 ## 적합한 상황과 해결하는 문제
