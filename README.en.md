@@ -36,6 +36,15 @@ Want a concept drawing that communicates design exploration without tracing an e
 - Makes whitespace an active part of composition instead of filling the page with decoration.
 - Keeps comparisons to exactly two equal regions and generates each original independently without a second stylisation.
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -43,21 +52,6 @@ Want a concept drawing that communicates design exploration without tracing an e
 The Chinese file preserves the user's source verbatim and is the sole runtime creative and aesthetic authority. The other versions are complete faithful reading translations.
 
 architectural concept perspective sketch · freehand linework · geometric guides · sparse colour and shadows · 2–4 source-derived colours · extensive whitespace · minimal editorial notes
-
-## Transformation logic
-
-recognise theme and spatial relationships → distil core forms → remove complex background → recompose scale and crop → rebuild with perspective lines, geometric guides, and sparse colour → finish with whitespace and short notes
-
-## Recognisable finished traits
-
-- The photograph remains above or left with only subtle grading and unchanged subject identity and pose.
-- The design is an architectural concept drawing, not full-scene tracing, photorealistic visualisation, or 3D.
-- A small distilled subject can sit off-centre, near an edge, or partly cropped; whitespace actively composes the page.
-- 2–4 source colours form a clean, restrained palette, applied lightly only to key areas.
-- Geometric shadows convey volume and depth; a few guides retain a sense of design exploration.
-- Very sparse text rests quietly in whitespace without a fixed type template; samples use English.
-
-The selected delivery mode remaps layout only, without altering the source aesthetics: `left-right` maps the upper photograph to the left and the lower design to the right. The selected ratio overrides the source default `3:4`.
 
 ## Four output modes
 
