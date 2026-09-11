@@ -4,6 +4,36 @@
 
 [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md)
 
+## 16:9 左右の作例
+
+独立した4点の素材による 16:9 完成キャンバス。左が現実写真、右が本 Panel のデザイン、厳密に 50:50。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 120 Sample 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 120 Sample 6"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 120 Sample 7"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 120 Sample 8"></td>
+  </tr>
+</table>
+
+## 3:4 上下の作例
+
+16:9 組とは別の独立した4点で、3:4 上下の完成キャンバスを生成。上が現実写真、下がデザイン、厳密に 50:50。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 120 additional top-bottom sample 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 120 additional top-bottom sample 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 120 additional top-bottom sample 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 120 additional top-bottom sample 4"></td>
+  </tr>
+</table>
+
 ## 作例
 
 8 枚の作例は異なるフォルダの原写真を参照し、Panel 120 が各画像を独立した一回の生成で制作します。写真に基づく英語の文章を使い、公開前に AI メタデータを除去します。横長は左に写真・右にデザイン、縦長は上に写真・下にデザインを各 50% 配置します。

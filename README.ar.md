@@ -4,6 +4,36 @@
 
 [简体中文](README.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md)
 
+## نماذج 16:9 يسار–يمين
+
+أربع مصادر مستقلة على لوحة 16:9 مكتملة: الواقع يساراً وتصميم هذا اللوح يميناً، مناصفة دقيقة 50:50.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 120 Sample 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 120 Sample 6"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 120 Sample 7"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 120 Sample 8"></td>
+  </tr>
+</table>
+
+## نماذج 3:4 أعلى–أسفل
+
+أربع مصادر أخرى مستقلة، مختلفة عن مجموعة 16:9، بلوحة 3:4 مكتملة: الواقع أعلى والتصميم أسفل، مناصفة دقيقة 50:50.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 120 additional top-bottom sample 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 120 additional top-bottom sample 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 120 additional top-bottom sample 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 120 additional top-bottom sample 4"></td>
+  </tr>
+</table>
+
 ## نماذج الأعمال
 
 تستخدم النماذج الثمانية صورًا أصلية من مجلدات مختلفة، وينشئ Panel 120 كلًا منها باستقلال في مرور واحد، مع نص إنجليزي مستند إلى الصورة وإزالة بيانات AI قبل النشر. الأفقي: الصورة يسارًا والتصميم يمينًا؛ الرأسي: الصورة أعلى والتصميم أسفل، بنسبة 50% لكل منطقة.
