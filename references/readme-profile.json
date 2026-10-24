@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 120｜Architectural Concept Sketch Chronicle: turns the core form and spatial relationships of a photo into an architectural concept perspective sketch — loose, restrained free-hand perspective lines with some construction, extension and geometric guide lines left in, colour laid lightly on only a few key parts, a few geometric shadow blocks for volume, most background removed, a smaller subject moved, cropped or rescaled to rescue a weak photo, very large whitespace, a clean sketch palette of two to four photo colours (off-white, greys, soft green, pale wood, blue-grey) with one brighter accent, and a few quiet notes in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-120 or asks for architectural concept sketch or perspective line drawing from a photo.",
+  "short_description": "建筑概念手绘志：把照片画成带构造线和少量色块的建筑概念草图，主体小、留白多",
+  "zh-CN": {
+    "name": "建筑概念手绘志",
+    "tagline": "把照片里的空间记忆，变成一张留白充分的建筑概念草图。",
+    "look": "只留下最能代表原图的核心形体和空间关系，大部分背景、配景和细节都去掉。画法是自由徒手的透视线稿，线条松弛、克制、略有重复和停顿，保留一些辅助线、延长线和几何参考线，像正在推敲的设计草图。颜色只轻轻铺在少数关键部位，再加几块几何阴影交代体量和进深，其余地方不画。主体被画得更小、更精炼，可以偏心、贴边或裁切，原图构图差也会被重新安排，四周是大量留白。配色是从照片整理出的米白、浅灰、暖灰、柔绿、淡木色、浅蓝灰，加一处稍鲜明的点睛色。文字只有几条小注记。",
+    "traits": [
+      "建筑透视手绘",
+      "松散复线",
+      "结构延长线",
+      "几何引导线",
+      "选择性着色",
+      "极小主体留白"
+    ],
+    "good": [
+      "建筑与空间照片：老房子的立面、楼梯间、桥、庭院、车站",
+      "有明确体块和透视的场景：街角、屋顶、廊道、室内一角",
+      "构图弱、背景杂或主体小，想重新组织成有设计感海报的旅行照"
+    ],
+    "poor": [
+      "以人物表情或动物神态为主的照片，这一款更擅长形体和空间",
+      "想要满幅上色、写实效果图或 3D 渲染的需求",
+      "色彩浓烈、靠颜色取胜的照片，颜色只会在少数地方出现"
+    ]
+  },
+  "en": {
+    "name": "Architectural Concept Sketch Chronicle",
+    "tagline": "Turns the spatial memory in a photo into an architectural concept sketch with plenty of room.",
+    "look": "Only the core forms and spatial relationships that best stand for the photo are kept; most background, entourage and detail are removed. It is drawn as free-hand perspective linework, loose and restrained with a little repetition and hesitation, keeping some construction lines, extension lines and geometric guides, like a design still being worked out. Colour is laid lightly on only a few key parts, with a few geometric shadow blocks for volume and depth, and the rest left undrawn. The subject is drawn smaller and more refined, moved off-centre, against an edge or cropped, re-staged even when the original framing is weak, with large whitespace all around. The palette is distilled from the photo into off-white, light grey, warm grey, soft green, pale wood and light blue-grey, plus one brighter accent. Text is only a few small notes.",
+    "traits": [
+      "Architectural perspective sketch",
+      "Loose repeated lines",
+      "Construction lines",
+      "Geometric guides",
+      "Selective colour",
+      "Tiny subject, wide whitespace"
+    ],
+    "good": [
+      "Architecture and space: an old house front, a stairwell, a bridge, a courtyard, a station",
+      "Scenes with clear volumes and perspective: a street corner, rooftops, a colonnade, a corner of an interior",
+      "Travel photos with weak framing, a busy background or a small subject that you want re-staged as a designed poster"
+    ],
+    "poor": [
+      "Photos centred on facial expression or an animal's character; this style is stronger on form and space",
+      "Requests for fully coloured images, realistic architectural renders or 3D",
+      "Strongly coloured photos that rely on colour, since colour appears in only a few spots"
+    ]
+  },
+  "ja": {
+    "name": "建築コンセプト手描き帖",
+    "tagline": "写真の中の空間の記憶を、余白のたっぷりした建築コンセプトスケッチにします。",
+    "look": "写真をいちばんよく表す中心の形と空間の関係だけを残し、背景や添景、細部の大半は省きます。描き方はフリーハンドの透視線画で、線はゆるく控えめ、少し重ねたり止まったりしながら、補助線、延長線、幾何学的なガイドを残し、検討中の設計スケッチのようです。色は要所の数か所にだけ軽くのせ、幾何学的な影の面をいくつか置いてボリュームと奥行きを示し、ほかは描きません。主役はより小さく洗練された形で描かれ、中心を外したり、端に寄せたり、切り取ったりして、元の構図が弱くても組み直され、まわりは広い余白です。配色は写真から整えた生成り、明るいグレー、暖かいグレー、柔らかな緑、淡い木の色、明るい青灰色に、少し鮮やかな差し色をひとつ。文字は小さな注記が少しだけです。",
+    "traits": [
+      "建築の透視スケッチ",
+      "ゆるい重ね線",
+      "構造の延長線",
+      "幾何学のガイド線",
+      "選んだ部分だけの彩色",
+      "とても小さな主役と余白"
+    ],
+    "good": [
+      "建築や空間の写真：古い家のファサード、階段室、橋、中庭、駅",
+      "ボリュームと遠近がはっきりした場面：街角、屋根並み、回廊、室内の一角",
+      "構図が弱い、背景が散らかっている、主役が小さい旅の写真を、設計感のあるポスターに組み直したい場合"
+    ],
+    "poor": [
+      "人の表情や動物の様子が中心の写真（このスタイルは形と空間のほうが得意です）",
+      "全面の彩色、写実的な建築パース、3D を求める場合",
+      "色が強く、色で見せる写真（色は数か所にしか現れません）"
+    ]
+  },
+  "ko": {
+    "name": "건축 개념 손그림 기록",
+    "tagline": "사진 속 공간의 기억을 여백이 넉넉한 건축 개념 스케치로 바꿉니다.",
+    "look": "사진을 가장 잘 대표하는 핵심 형태와 공간 관계만 남기고, 배경, 첨경, 세부의 대부분은 지웁니다. 자유로운 손그림 투시 선화로 그리며, 선은 느슨하고 절제되어 약간 겹치고 머뭇거리고, 보조선, 연장선, 기하 가이드선을 남겨 아직 검토 중인 설계 스케치처럼 보입니다. 색은 핵심 몇 군데에만 가볍게 올리고, 기하학적 그림자 면 몇 개로 볼륨과 깊이를 보여 주며 나머지는 그리지 않습니다. 주인공은 더 작고 정제되게 그려 중심에서 비키거나 가장자리에 붙이거나 잘라 내고, 원래 구도가 약해도 다시 연출하며, 주위는 넓은 여백입니다. 배색은 사진에서 정리한 미색, 밝은 회색, 따뜻한 회색, 부드러운 초록, 연한 나무색, 밝은 청회색에 조금 선명한 포인트 색 하나를 더합니다. 글자는 작은 메모 몇 줄뿐입니다.",
+    "traits": [
+      "건축 투시 스케치",
+      "느슨한 겹선",
+      "구조 연장선",
+      "기하 가이드선",
+      "선택적 채색",
+      "아주 작은 주인공과 여백"
+    ],
+    "good": [
+      "건축과 공간 사진: 오래된 집의 입면, 계단실, 다리, 안뜰, 역",
+      "볼륨과 원근이 분명한 장면: 길모퉁이, 지붕들, 회랑, 실내 한쪽",
+      "구도가 약하거나 배경이 어수선하거나 주인공이 작은 여행 사진을 디자인 포스터로 다시 짜고 싶은 경우"
+    ],
+    "poor": [
+      "사람의 표정이나 동물의 모습이 중심인 사진(이 스타일은 형태와 공간에 더 강합니다)",
+      "전체 채색, 사실적인 건축 투시도, 3D를 원하는 경우",
+      "색이 강하고 색으로 승부하는 사진(색은 몇 군데에만 나타납니다)"
+    ]
+  },
+  "ar": {
+    "name": "سجل الاسكتش المعماري المفاهيمي",
+    "tagline": "يحوّل ذاكرة المكان في الصورة إلى اسكتش معماري مفاهيمي يتسع للفراغ.",
+    "look": "لا يبقى إلا الكتل الجوهرية والعلاقات المكانية التي تمثل الصورة أفضل تمثيل، ويُحذف معظم الخلفية والعناصر المرافقة والتفاصيل. يُرسم بخطوط منظور حرة باليد، مرتخية ومتحفظة فيها شيء من التكرار والتوقف، مع الإبقاء على بعض خطوط الإنشاء والامتداد والأدلة الهندسية، كتصميم لا يزال قيد الدراسة. يوضع اللون بخفة على أجزاء أساسية قليلة فقط، مع بضع كتل ظل هندسية تُظهر الحجم والعمق، ويُترك الباقي بلا رسم. يُرسم العنصر أصغر وأنقى، منزاحاً عن المركز أو ملاصقاً لحافة أو مقصوصاً، ويُعاد إخراجه حتى لو كان التأطير الأصلي ضعيفاً، مع فراغ واسع من حوله. تُستخلص الألوان من الصورة إلى أبيض مائل إلى الكريمي ورمادي فاتح ورمادي دافئ وأخضر ناعم ولون خشب باهت ورمادي مزرق فاتح، مع لون لافت واحد أزهى. النص بضع ملاحظات صغيرة فقط.",
+    "traits": [
+      "اسكتش منظور معماري",
+      "خطوط متكررة مرتخية",
+      "خطوط الإنشاء",
+      "أدلة هندسية",
+      "تلوين انتقائي",
+      "عنصر صغير جداً وفراغ واسع"
+    ],
+    "good": [
+      "صور العمارة والفضاءات: واجهة بيت قديم، بيت درج، جسر، فناء، محطة",
+      "مشاهد ذات كتل ومنظور واضحين: ناصية شارع، أسطح، رواق أعمدة، ركن داخلي",
+      "صور سفر بتأطير ضعيف أو خلفية مزدحمة أو عنصر صغير تريد إعادة إخراجها ملصقاً مصمماً"
+    ],
+    "poor": [
+      "صور تتمحور حول تعابير الوجه أو طباع حيوان، فهذا الأسلوب أقوى في الشكل والفضاء",
+      "طلب صور ملونة بالكامل أو مناظير معمارية واقعية أو ثلاثي الأبعاد",
+      "الصور قوية الألوان التي تعتمد على اللون، إذ لا يظهر اللون إلا في مواضع قليلة"
+    ]
+  }
+}

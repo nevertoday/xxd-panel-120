@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-120
-description: "Create XXD Panel 120 raster artwork from a source photograph as an architectural concept perspective sketch: relaxed freehand lines, sparse geometric guides, selective colour blocks, geometric shadows, and extensive whitespace. Use when the user invokes xxd-panel-120 or requests this architectural concept-sketch editorial transformation. Supports isolated image or directory inputs, strict 50:50 comparisons, design-only work, and wallpapers."
+description: "XXD Panel 120｜Architectural Concept Sketch Chronicle: turns the core form and spatial relationships of a photo into an architectural concept perspective sketch — loose, restrained free-hand perspective lines with some construction, extension and geometric guide lines left in, colour laid lightly on only a few key parts, a few geometric shadow blocks for volume, most background removed, a smaller subject moved, cropped or rescaled to rescue a weak photo, very large whitespace, a clean sketch palette of two to four photo colours (off-white, greys, soft green, pale wood, blue-grey) with one brighter accent, and a few quiet notes in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-120 or asks for architectural concept sketch or perspective line drawing from a photo."
 ---
 
 # XXD Panel 120
